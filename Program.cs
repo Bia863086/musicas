@@ -12,6 +12,7 @@ namespace musicas
             Console.WriteLine("Depois que me escutar");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Você vai lembrar meu nome");
+            Console.ResetColor();
         }
     }
 }
